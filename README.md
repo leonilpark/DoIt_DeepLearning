@@ -7,6 +7,6 @@
 + 성명 : 박장훈
 
 ## Contents
-### [Chapter 2 (Numerical prediction)] (https://github.com/leonilpark/DoIt_DeepLearning/blob/master/Code/Do_It_DeepLearning_GradientDescent.ipynb)
+### [Chapter 2 (Numerical prediction)](https://github.com/leonilpark/DoIt_DeepLearning/blob/master/Code/Do_It_DeepLearning_GradientDescent.ipynb)
 ### Chapter 3 (Binary Classification)
 
